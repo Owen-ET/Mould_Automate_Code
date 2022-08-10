@@ -1,7 +1,7 @@
 # Mould_Automate_Code
 UI自动化：
-telephone: 13642040631
-password: 123456
+telephone: xxx
+password: xxx
 url: "https://recycle_dev.17mine.cn:9700/#/login"
 
 接口自动化：
